@@ -1612,6 +1612,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libfastcvopt \
+    libaptXHD_encoder \
+    libaptX_encoder \
     CACertService \
     CneApp \
     IWlanService \
